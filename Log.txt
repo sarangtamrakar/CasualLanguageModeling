@@ -1,0 +1,35 @@
+Date : 2021-07-18, Time : 14:04:53, Message : Loading Model 
+Date : 2021-07-18, Time : 14:04:56, Message : Model & Tokenizer Loaded 
+Date : 2021-07-18, Time : 14:05:13, Message : Get the Text from User: I love my wife and  
+Date : 2021-07-18, Time : 14:05:17, Message : Get prediction Successfully 
+Date : 2021-07-18, Time : 14:05:20, Message : Get the Text from User: I love my wife and  
+Date : 2021-07-18, Time : 14:05:25, Message : Get prediction Successfully 
+Date : 2021-07-18, Time : 14:05:43, Message : Get the Text from User: I love my wife and my 
+Date : 2021-07-18, Time : 14:05:47, Message : Get prediction Successfully 
+Date : 2021-07-18, Time : 14:05:54, Message : Get the Text from User: I love my wife and my 
+Date : 2021-07-18, Time : 14:05:59, Message : Get prediction Successfully 
+Date : 2021-07-18, Time : 14:06:03, Message : Get the Text from User: I love my wife and my 
+Date : 2021-07-18, Time : 14:06:07, Message : Get prediction Successfully 
+Date : 2021-07-19, Time : 22:15:38, Message : Loading Model 
+Date : 2021-07-19, Time : 22:15:39, Message : Model & Tokenizer Loaded 
+Date : 2021-07-19, Time : 22:16:01, Message : Get the Text from User: This is a demo of HMTL for NLP, our new NLP multi-task model that reaches or beats the state-of-the-art on 4 distinct NLP tasks. The model combines Named Entity Recognition, Entity Mention Detection, Relation Extraction and Coreference Resolution. These 4 tasks are all fundamentals for NLP and NLU applications such as conversational agents. Moreover, these 4 tasks can benefit each other when trained together in a multi-task learning framework, a recent trend in NLP which has been driving a lot of top-notch research. 
+Date : 2021-07-19, Time : 22:16:01, Message : Get prediction Successfully 
+Date : 2021-07-19, Time : 22:17:35, Message : Get the Text from User: Reports by an international media consortium that claim Indian politicians, journalists, judges and at least two serving ministers could have been among those targeted for hacking through Israeli spyware that is sold only to governments have snowballed into a political slugfest between the Bharatiya Janata Party (BJP) and the opposition.
+While the opposition parties are demanding a probe and raised the issue in Parliament, the BJP has denied any link to the wrongdoing.
+
+On Monday former IT and telecom Minister, Ravi Shankar Prasad said there is “not even a shred of evidence” to link the BJP or the Union government to the entire Pegasus snooping controversy and raised questions about the timing of the story coinciding with the monsoon session of Parliament.
+
+Responding to the Congress party’s demand for an independent probe into the issue, he said,” We strongly refute, condemn the baseless and bereft of political propriety comments of the Congress party. This is a new low in the political discourse of the party that has ruled India for 50 years.” 
+Date : 2021-07-19, Time : 22:17:36, Message : Get prediction Successfully 
+Date : 2021-07-19, Time : 22:17:57, Message : Get the Text from User: I love my wife and  
+Date : 2021-07-19, Time : 22:18:03, Message : Get prediction Successfully 
+Date : 2021-07-19, Time : 22:18:16, Message : Get the Text from User: I love my wife and her 
+Date : 2021-07-19, Time : 22:18:21, Message : Get prediction Successfully 
+Date : 2021-07-19, Time : 22:18:49, Message : Get the Text from User: I love my wife and my 
+Date : 2021-07-19, Time : 22:18:54, Message : Get prediction Successfully 
+Date : 2021-07-19, Time : 22:19:25, Message : Get the Text from User: I am going to market for 
+Date : 2021-07-19, Time : 22:19:30, Message : Get prediction Successfully 
+Date : 2021-07-19, Time : 22:19:42, Message : Get the Text from User: I am going to market for  
+Date : 2021-07-19, Time : 22:19:46, Message : Get prediction Successfully 
+Date : 2021-07-19, Time : 22:20:21, Message : Get the Text from User: I know that i am afraid of  
+Date : 2021-07-19, Time : 22:20:26, Message : Get prediction Successfully 
